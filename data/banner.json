@@ -1,0 +1,7 @@
+{"tile_words":["SKILL.md","AGENTS","PROMPTS","WORKFLOW","MCP","CODEX","CLI","SCRIPTS","REFERENCES","TOOLS","PLAYBOOK","CONTEXT","PLUGIN","SUBAGENT","RESEARCH"],
+ "gradient":[[40,90,200],[170,70,200],[230,110,50]],
+ "title":["Agent","Skills"], "title_size":104,
+ "cta1":"CLICK HERE TO CHECK HOW AI SEES YOUR SITE","cta2":"WITH","brand":"AIRankWP","brand_color":[70,60,200],
+ "foot":"Free in-browser AI-search audit at airankwp.com  |  Logos belong to their owners; not affiliated",
+ "logos":["antigravity","claude","openai","gemini","cursor","copilot"],
+ "logo_caption":"Agents these skills commonly run on"}

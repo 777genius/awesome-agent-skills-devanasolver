@@ -1,0 +1,402 @@
+[
+  {
+    "repo": "anthropics/skills",
+    "category": "ref",
+    "description": "Anthropic's public repo of Agent Skills, with example skills and the skill format. A good place to learn how a SKILL.md is built.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "vercel-labs/agent-skills",
+    "category": "ref",
+    "description": "Vercel's collection of agent skills.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "github/awesome-copilot",
+    "category": "ref",
+    "description": "Community instructions, agents and skills for GitHub Copilot, kept by GitHub.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "tech-leads-club/agent-skills",
+    "category": "ref",
+    "description": "A validated skill registry for coding agents. Lists Antigravity, Claude Code, Cursor and Copilot as targets.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "category": "coll",
+    "description": "Engineering skills for AI coding agents, such as planning, testing and review.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "alirezarezvani/claude-skills",
+    "category": "coll",
+    "description": "Large set of skills and plugins across engineering, marketing and product. Says it supports Claude Code, Codex, Gemini CLI, Cursor and more.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-08-30"
+  },
+  {
+    "repo": "Jeffallan/claude-skills",
+    "category": "coll",
+    "description": "67 skills for full-stack developers, for Claude Code.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "wshobson/agents",
+    "category": "coll",
+    "description": "Plugin marketplace for several agents. Lists Claude Code, Codex, Cursor, OpenCode, GitHub Copilot and Google Antigravity.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "sickn33/agentic-awesome-skills",
+    "category": "coll",
+    "description": "Catalog of 2,600+ skills with a CLI and local MCP server to find and pick them.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "category": "coll",
+    "description": "Skills for AI research and engineering work. Says it works with Claude Code, Codex and Gemini agents.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "category": "coll",
+    "description": "Skills on context engineering and multi-agent design, for people building agent systems.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "category": "coll",
+    "description": "Skills and database connectors for science: biology, chemistry, medicine and more.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "category": "design",
+    "description": "Design guidance skill for building cleaner UI and UX across platforms.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "Leonxlnx/taste-skill",
+    "category": "design",
+    "description": "Skills that push coding agents toward better visual design, using reference images and a browser check.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "category": "design",
+    "description": "Makes clean HTML and SVG diagrams (44 types) from an agent. Works with Claude Code, Codex, Copilot, Cursor and others.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "tt-a1i/archify",
+    "category": "design",
+    "description": "Turns an idea, plan or codebase into an interactive diagram.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "wheresryan22/anatomy",
+    "category": "design",
+    "description": "Makes detailed isometric SVG illustrations of machines and systems.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "chuspeeism/dashi-ppt-skill",
+    "category": "design",
+    "description": "Generates presentations you can edit in the browser and export to HTML, PDF and PPTX.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-12"
+  },
+  {
+    "repo": "op7418/guizang-social-card-skill",
+    "category": "design",
+    "description": "Makes carousel and cover images for Xiaohongshu and WeChat. Docs are partly Chinese. AGPL licence.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-07-01"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "category": "mkt",
+    "description": "Marketing skills: conversion work, copywriting, SEO, analytics and growth.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "AgriciDaniel/claude-seo",
+    "category": "mkt",
+    "description": "Large SEO skill set: technical SEO, schema, GEO/AEO, llms.txt, local and e-commerce SEO.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-04"
+  },
+  {
+    "repo": "zubair-trabzada/geo-seo-claude",
+    "category": "mkt",
+    "description": "SEO skill focused on AI search: citability scoring, AI crawler checks and schema.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Bhanunamikaze/Agentic-SEO-Skill",
+    "category": "mkt",
+    "description": "SEO analysis skill for Antigravity, Codex and Claude, with sub-skills and helper scripts.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "sergebulaev/linkedin-skills",
+    "category": "mkt",
+    "description": "12 skills for LinkedIn posts, comments and publishing plans. For Claude Code and Codex.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "devanasolver/ai-seo-toolkit",
+    "category": "mkt",
+    "description": "Free command-line AI-search audit, keyword ideas and Search Console data. It is a CLI, not a SKILL.md pack. By the maintainer of this list.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "category": "prod",
+    "description": "100+ skills and plugins for product managers, from discovery to launch.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "deanpeters/Product-Manager-Skills",
+    "category": "prod",
+    "description": "Product management skills built on established methods. For Claude Code, Codex and other agents.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "mvanhorn/last30days-skill",
+    "category": "know",
+    "description": "Researches a topic across Reddit, X, YouTube, Hacker News and the web, then summarizes it.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "kepano/obsidian-skills",
+    "category": "know",
+    "description": "Skills that teach an agent to work with Obsidian notes, Markdown, Bases and JSON Canvas.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-15"
+  },
+  {
+    "repo": "teng-lin/notebooklm-py",
+    "category": "know",
+    "description": "Unofficial Python API and agent skill for Google's notebook tool. Unofficial, so it can break.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "yusufkaraaslan/Skill_Seekers",
+    "category": "know",
+    "description": "Turns docs sites, GitHub repos and PDFs into Claude skills.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-30"
+  },
+  {
+    "repo": "virgiliojr94/book-to-skill",
+    "category": "know",
+    "description": "Turns a technical book PDF into a Claude Code skill.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "blader/humanizer",
+    "category": "write",
+    "description": "Skill that removes common signs of AI-written text.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "zenstory-ai/oh-story-claudecode",
+    "category": "write",
+    "description": "13 skills for writing long web novels, with continuity tracking. Docs mix Chinese and English.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "OthmanAdi/planning-with-files",
+    "category": "flow",
+    "description": "File-based planning for long agent tasks, so plans survive context resets.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ayghri/i-have-adhd",
+    "category": "flow",
+    "description": "Skill that makes agent answers short and direct, with the answer first.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "0xNyk/council-of-high-intelligence",
+    "category": "flow",
+    "description": "Runs a structured multi-perspective debate on hard decisions, across Claude Code, Codex, Gemini CLI and OpenCode.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "nidhinjs/prompt-master",
+    "category": "flow",
+    "description": "Claude skill that writes prompts for other AI tools.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Vincentwei1021/video-shotcraft",
+    "category": "video",
+    "description": "Skill for product videos made with Remotion, with shot recipes and a template. For Claude Code and Codex.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "latent-spaces/brag",
+    "category": "video",
+    "description": "Makes a short launch video of your project with one command.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "browser-act/skills",
+    "category": "auto",
+    "description": "Browser automation CLI for agents, with multiple sessions and hand-off to a human when stuck.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-08-24"
+  },
+  {
+    "repo": "iOfficeAI/OfficeCLI",
+    "category": "auto",
+    "description": "Single-binary tool that lets agents read and edit Word, Excel and PowerPoint files without Office installed.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "googleworkspace/cli",
+    "category": "auto",
+    "description": "One command-line tool for Drive, Gmail, Calendar, Sheets and Docs. Includes agent skills.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "ComposioHQ/awesome-claude-skills",
+    "category": "lists",
+    "description": "The well-known curated list of Claude skills. Worth reading alongside this one.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-18"
+  },
+  {
+    "repo": "VoltAgent/awesome-agent-skills",
+    "category": "lists",
+    "description": "Large curated list of 1000+ skills for Claude Code, Codex, Gemini CLI, Cursor and more.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "VoltAgent/awesome-openclaw-skills",
+    "category": "lists",
+    "description": "Collection of OpenClaw skills sorted by category.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "composio-community/awesome-codex-skills",
+    "category": "lists",
+    "description": "Curated list of Codex skills.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-07-26"
+  },
+  {
+    "repo": "travisvn/awesome-claude-skills",
+    "category": "lists",
+    "description": "Curated list of Claude skills and resources, with a Claude Code focus.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-04-28"
+  },
+  {
+    "repo": "hesreallyhim/awesome-claude-code",
+    "category": "lists",
+    "description": "Curated list of Claude Code resources.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "VoltAgent/awesome-codex-subagents",
+    "category": "lists",
+    "description": "130+ specialized subagents for Codex.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-05"
+  }
+]
